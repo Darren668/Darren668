@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darren Xin
-- 👀 I’m interested in back-end programming with Java
-- 🌱 I’m currently learning frames of Spring
+- 👀 I’m interested in back-end programming with Java, Golang
+- 🌱 I’m currently learning back-end concurrency knowledge
 - 💞️ I’m looking to collaborate on web development
 - 📫 You could reach me by email xinhaojiegryx@163.com
 
